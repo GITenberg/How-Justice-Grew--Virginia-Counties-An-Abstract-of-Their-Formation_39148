@@ -1,0 +1,29 @@
+_repo: How-Justice-Grew--Virginia-Counties-An-Abstract-of-Their-Formation_39148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hiden, Martha W. (Martha Woodroof)
+    alias: Hiden, Martha Woodroof
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '39865'
+    url: http://www.gutenberg.org/2009/agents/39865
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- History, Local'
+- !lcc 'F206'
+- !lcsh 'Counties -- Virginia -- History'
+- !lcsh 'Virginia -- History'
+title: 'How Justice Grew: Virginia Counties, An Abstract of Their Formation'
+url: http://www.gutenberg.org/ebooks/39148
